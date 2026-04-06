@@ -1,0 +1,5 @@
+Artificial intelligence refers to the simulation of human intelligence in machines.
+These systems are designed to learn, reason, and correct themselves.
+Machine learning, a subset of AI, allows systems to automatically learn from data.
+Deep learning leverages neural networks with multiple layers for advanced tasks.
+Natural language processing is the ability of computers to understand human language.

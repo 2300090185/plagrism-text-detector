@@ -1,0 +1,5 @@
+The history of the Internet dates back to research started in the 1960s.
+The Internet is a global system of interconnected computer networks.
+It uses the Internet protocol suite to communicate between networks and devices.
+The World Wide Web is an information system that runs over the Internet.
+Tim Berners-Lee invented the World Wide Web in 1989 at CERN.

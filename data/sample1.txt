@@ -1,0 +1,5 @@
+Artificial intelligence is the simulation of human intelligence processes by computer systems.
+These processes include learning, reasoning, and self-correction.
+Machine learning is a subset of artificial intelligence that enables systems to learn from data.
+Deep learning is a further subset that uses neural networks with many layers.
+Natural language processing allows computers to understand and generate human language.
