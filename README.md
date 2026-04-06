@@ -97,7 +97,7 @@ Start the server
 ![image](https://github.com/Karthik-02/plagiarism-detection/assets/81423983/0744bc50-6840-4893-a7c3-99e7834ab747)
 
 ## Authors
-- [@KarthikS](https://www.github.com/Karthik-02)
+- [@Krishna saran nc](https://www.github.com/Karthik-02)
   
 
 
